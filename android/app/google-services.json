@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "800560460030",
+    "project_id": "prestigeplusrewards",
+    "storage_bucket": "prestigeplusrewards.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800560460030:android:cadf0f588d13e9122b35af",
+        "android_client_info": {
+          "package_name": "uzrtech.prestige_vender"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOY_-oftBLHrirw-kw1ExPu9i36D_lLyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
